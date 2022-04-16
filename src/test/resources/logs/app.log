@@ -1,0 +1,7 @@
+25/05/2019 09:22:38 utilities.Log Chrome browser is loading
+25/05/2019 09:22:41 utilities.Log Setting browser properties
+25/05/2019 09:22:44 utilities.Log Going to USPS HomePage
+25/05/2019 09:22:46 utilities.Log clicking Registration/Sign In Link
+25/05/2019 09:22:46 utilities.Log Loading Login Page
+25/05/2019 09:22:46 utilities.Log Trying to login with username: gkibria45675 and password: Bangla@12341
+25/05/2019 09:22:49 utilities.Log Login Successful But actually it is not, need to check title or element for this home page
